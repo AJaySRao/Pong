@@ -4,8 +4,8 @@ Pong is a two-dimensional sports game that simulates table tennis. The player co
 
 Steps:
 1. Create the screen
-2. Create and move a puddle
-3. Create another puddle
+2. Create and move a paddle
+3. Create another paddle
 4. Create the ball and make it move constantly across the screen
 5. Detect when the ball collides with wall and make it bounce back
 6. Detect when there's a collision with the paddle to know when to bounce it back
